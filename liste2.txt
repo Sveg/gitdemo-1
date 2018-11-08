@@ -12,5 +12,8 @@ Kiwi
 Bananer
 Æbler
 Tomater
-æg
-agurk
+Æg
+Agurk
+Kylling
+Tun
+Majs
